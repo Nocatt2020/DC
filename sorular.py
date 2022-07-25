@@ -48,7 +48,7 @@ C_SORU=[
 ]
 
 D_SORU = [
-	"Telefonunda en son aradığın şey neydi?","Birisi kız arkadaşın / erkek arkadaşından ayrılmak için sana 1 milyon tl önerseydi, yapar mıydın?",
+	"sevgilinin lüt fotolarıyla 31 çektinmi?","Birisi kız arkadaşın / erkek arkadaşından ayrılmak için sana 1 milyon tl önerseydi, yapar mıydın?",
 	"Bu grupda en az kimi seviyorsun ve neden?","Hiç sınıfta yüksek sesle geğirdin mi?",
 	"Hiç sınıfta yüksek sesle geğirdin mi?","Yerden bir şeyi alıp hiç yedin mi?",
 	"Bir gün karşı cins olarak uyanırsan, ilk yapacağın şey nedir?",
